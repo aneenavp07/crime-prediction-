@@ -1,2 +1,2 @@
-# crime-prediction-
+# Indian-crime-prediction-
 using machine learning
